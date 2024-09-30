@@ -1,0 +1,87 @@
+1)vi : Edit file
+
+2)esc i: Enable editing in the file
+
+3)esc : stop editing
+
+4)q: quit
+
+5)q!: quit without saving changes
+
+6)r(file name): Read data from file 
+
+7)wq: read data from file
+
+8)w: write to file 
+
+9)w!: save as forcefully
+
+10)!cmd: Runs shell commands
+
+11)k: moves the cursor up one line
+
+12)j: moves the cursor down one line
+
+13)h: moves the cursor to the left one letter
+
+14)I: moves the cursor to the right one letter
+
+15)0: Position cursor at beginning of lines
+
+16)$: Position cursor at end of lines
+
+17)W: Position cursor to the next word
+
+18)B: Position cursor to the previous work
+
+19) (:Position cursor to beginning of current sentence
+
+20) ):Position cursor to beginning of next sentence
+
+21) H: move to top screen
+
+22) M: move to middle of screen
+
+23) L: move to bottom of screen
+
+24) i: insert text before current cursor location
+
+25) a: insert text after current cursor location
+
+26) A:insert text at the end of current line
+
+27) o: creates a new line for text entry below cursor location and switches to insert mode
+
+28) O: creates a new line for text entry above cursor location and switches to insert mode
+
+29)s: Replaces single character under the cursor
+
+30)X: Delete the character before the cursor location
+
+31)x: Delete the character at the cursor location
+
+32)Dw: Delete from the current cursor location to the next word
+
+33)Dd: delete the line the cursor is on
+
+34)d$: deletes from current cursor position to the end of the line
+
+35)Yy: copies the current file
+
+36)p: puts the copied text after the cursor
+
+37)P: put the copied text before the cursor
+
+38)CTRL+d: moves the screen down by half a page
+
+39)CTRL+f: moves the screen down by full page
+
+40)CTRL+u: moves the screen up by half a page
+
+41)CTRL+b: moves the screen up by full page
+
+42)CTRL+e: moves the screen up by one line
+
+43)CTRL+y: moves the screen down by one line
+
+44)CTRL+I: redraw the screen
