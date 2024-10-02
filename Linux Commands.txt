@@ -1,0 +1,70 @@
+1)sudo su : Change to Root user
+
+2)mkdir: Make directory
+
+3)pwd : Present working directory
+
+4)ls: list files and directory
+
+5)ls -ltr: list and details who and when directory/file is created
+
+6) ls -la: list the hidden files/directory
+
+7)touch abc.txt: Create a new file
+
+8)cp: copy file/directory
+
+9)mv: move and rename file/directory
+
+10)cd: connect directory
+
+11)cat filename : print what is there in file
+
+12)cat > filename: Add contents to blank file
+
+13)cat >> filename: to append the line on existing file
+
+14)ncal: To install calendar
+
+15)hostname : name of the host (Temporary)
+
+16)hostnamectl set-hostname: name of the host (Permanent)
+
+17)nproc: show processor information
+
+18)df : shows storage information
+
+19)free : shows free space
+
+20)less: reads a large text file. can be used in place of cat
+
+21)find: find files by size and time
+
+22)history: used as to look back on the commands ran in the past
+
+23)kill: used to kill any process manually
+
+24)man: display a user manual for any command
+
+25)echo: display active processes on the terminal
+
+26)wc: check the lines, word count and characters in a file using different options
+
+27)rmdir: Remove empty directory
+
+28)paswwd: Create or update passwords for existing users
+
+29)wget: Direct download files from the internet
+
+30)curl: Transfer data from server
+
+31)chmod: Command to change file permissions
+
+32)chown: Command for granting ownership of files or folders
+
+33)ssh: Secure shell command in Linux
+
+34)tar: compress files
+
+35)tar xzvf: extract files
+
